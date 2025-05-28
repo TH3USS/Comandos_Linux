@@ -1,5 +1,5 @@
-# Roteiro Linux
+# Linux Guide
 
-Um roteiro com os passos para a intalação do Linux Ubunto em uma virtual box, e os comandos básicos para navegar por prompt!
-<br>
->Esse foi um trabalho acadêmico desenvolvido por mim e mais três colegas: [Thomas](https://github.com/thhhhomas), [Yuri](https://github.com/oYuriyan) e [Vinicius](https://github.com/VINICIUSSOARESDELIMA).
+A guide with the steps for installing Ubuntu Linux on VirtualBox, along with the basic commands to navigate through the terminal! <br>
+
+> This was an academic project developed by me and three classmates: [Thomas](https://github.com/thhhhomas), [Yuri](https://github.com/oYuriyan), and [Vinicius](https://github.com/VINICIUSSOARESDELIMA).
